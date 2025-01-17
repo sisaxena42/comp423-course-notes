@@ -11,8 +11,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # Welcome to Siddhant Saxena's Course Notes
+   
+ # Welcome to Siddhant Saxena's Course Notes
 
 This is my home page. I will use it to organize and share my course notes.
