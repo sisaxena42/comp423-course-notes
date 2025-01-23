@@ -1,4 +1,4 @@
-# Setting up a dev container for rust
+# Setting up a dev container for Rust
 
 * Primary author: [Siddhant Saxena](https://github.com/sisaxena42)
 
