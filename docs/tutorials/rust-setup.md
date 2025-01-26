@@ -56,7 +56,7 @@ git push --set-upstream origin main
 ## Part 2: Seting up the actual Development Container/Environment
 ### Step 1: Setting up Configuration for Rust Dev Container
 
-1. Open the `rust-program` directory in VS code and make sure you have the Dev Containers extention on VS code as well.
+1. Open the `rust-program` directory in VS code and make sure you have the Dev Containers extension on VS code as well.
 2. Create a `.devcontainer` directory (folder) in the root of your project folder.
 3. Create a `devcontainer.json` file inside the `.devcontainer` directory. This file actually holds the configuration for the dev container.
 4. Copy the below config file data and put into your `devcontainer.json` file:
