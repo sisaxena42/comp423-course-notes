@@ -107,6 +107,11 @@ fn main() {
 }
 ```
 ### Step 2: Compiler
+???+ warning "Careful"
+    Before we compile the code we 'crated'(cs humor), we want to make sure we are in the correct working directory. We can do this by running:
+    ```
+    cd hello_comp423
+    ```
 1. Cargo has generated us a `crate`. We can now compile and run this file using cargo's commands: `cargo build` and `cargo run`. However, these do different things. 
 ```
 cargo build
