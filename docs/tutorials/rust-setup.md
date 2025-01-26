@@ -47,7 +47,7 @@ git commit -m "Initial commit with README"
 ```
 git remote add origin https://github.com/<your-username>/rust-program.git
 ```
-5. Your default branch should be named "main", if it isnt, you can change it by running `git branch -M main`.
+5. Your default branch should be named "main", if it isnt, you can change it by running `git branch -M main`. If you do, you'll have to re-add and re-commmit.
 6. Now you can push to your remote repository by running:
 ```
 git push --set-upstream origin main
@@ -156,7 +156,7 @@ Note: this command may not provide any feedback on the compiling step if no chna
 ## Victory!
  You have sucessfully created your first rust program in a dev container! You can now push you changes to your github repositiory with the following commands:
  ```
- git add.
+ git add .
  git commit -m "im better at this rust than the other one fs"
  ```
 
