@@ -176,3 +176,4 @@ git push
 * [comp423: Starting a Static Website Project with MkDocs](https://comp423-25s.github.io/resources/MkDocs/tutorial/#how-are-software-project-dependencies-managed)
 * [Github for the Rust Language](https://github.com/rust-lang/book/blob/main/src/ch00-00-introduction.md)
 * [Markdown Extenstions](https://squidfunk.github.io/mkdocs-material/)
+* [Cargo Documentation](https://doc.rust-lang.org/cargo/index.html)
