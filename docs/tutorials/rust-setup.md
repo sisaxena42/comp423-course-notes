@@ -164,9 +164,9 @@ Note: this command may not provide any feedback on the compiling step if no chna
  ```
  git push origin
  ```
-Now to add the tutorial website link to the README.md file. Replace "your-username" with your github username.
+Now to add the tutorial website link to the README.md file. 
 ```
-echo "https://<your-username>.github.io/comp423-course-notes/tutorials/rust-setup/" >> README.md
+echo "[Tutorial Link](https://sisaxena42.github.io/comp423-course-notes/tutorials/rust-setup/)" >> README.md
 git add README.md
 git commit -m "added tutorial website link"
 git push
