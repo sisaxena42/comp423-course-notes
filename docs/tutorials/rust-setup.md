@@ -164,6 +164,15 @@ Note: this command may not provide any feedback on the compiling step if no chna
  ```
  git push origin
  ```
+Now to add the tutorial website link to the README.md file. Replace "your-username" with your github username.
+```
+echo "https://<your-username>.github.io/comp423-course-notes/tutorials/rust-setup/" >> README.md
+git add README.md
+git commit -m "added tutorial website link"
+git push
+```
 
 # Sources
-[comp423: Starting a Static Website Project with MkDocs](https://comp423-25s.github.io/resources/MkDocs/tutorial/#how-are-software-project-dependencies-managed)
+* [comp423: Starting a Static Website Project with MkDocs](https://comp423-25s.github.io/resources/MkDocs/tutorial/#how-are-software-project-dependencies-managed)
+* [Github for the Rust Language](https://github.com/rust-lang/book/blob/main/src/ch00-00-introduction.md)
+* [Markdown Extenstions](https://squidfunk.github.io/mkdocs-material/)
