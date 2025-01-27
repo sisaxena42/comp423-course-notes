@@ -67,7 +67,7 @@ git push --set-upstream origin main
     ??? note "image"
         `image`: This is the docker image to use in the container. In this case, it is rust.
     ??? note "customizations"
-        `customizations`: This holds useful configurations to VS code that you can typically find on the marketplace. In our case, we will install any VS code extentions we need here for our project.
+        `customizations`: This holds useful configurations to VS code that you can typically find on the marketplace. In our case, we will install any VS code extentions we need here for our project. In this case, we need the `rust-analyzer` extension to run Rust in the container.
     ??? note "postCreateCommand"
         `postCreateCommand`: A command that runs after the container is formed, usually used to install any requirements from the `requirements.txt` file.
 ```
